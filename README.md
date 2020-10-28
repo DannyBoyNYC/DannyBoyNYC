@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-
-
-- 🔭 I’m currently working on a web app using React, TypeScript, Apollo and the usual suspects
-- 🌱 I’m currently learning Svelte
-- 💬 Ask me about how to create a more just society
-- 📫 How to reach me: daniel.deverell@gmail.com
+- 🔭 I’m currently working on a web app using React, TypeScript, GraphQL, Apollo and Gatsby
+- 🌱 I really want to learne Svelte but haven't enough time
+- 📫 Reach me: daniel.deverell@gmail.com or DannyBoyNYC on twitter
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I've been teaching interactive dev since before the web (remember Macromedia Director?)
+- ⚡ Fun fact: my first website was authored with Cold Fusion
