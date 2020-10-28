@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm Daniel
 
 - 🔭 I’m currently working on a web app using React, TypeScript, GraphQL, Apollo and Gatsby
 - 🌱 I really want to learne Svelte but haven't enough time
